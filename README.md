@@ -8,7 +8,7 @@ Dev by Pasindu De Silva
 
 Was orignial authored by [Arunoda](https://github.com/arunoda)
 
-License
+###License
 
 The MIT License (MIT)
 
